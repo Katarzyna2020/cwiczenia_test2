@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import dopasowania as d
 import teoria as t
 
+# To jest główny program"
+
+# To jest nazwa pliku
 
 nazwa=input("Podaj nazwę pliku bez rozszerzenia .txt \n")
 
