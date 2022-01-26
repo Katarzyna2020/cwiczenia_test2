@@ -7,7 +7,7 @@ import teoria as t
 
 nazwa=input("Podaj nazwę pliku bez rozszerzenia .txt \n")
 
-print(nazwa)
+print(nazwa+'.txt')
 
 dane=w.wczytaj(nazwa+'.txt')
 
