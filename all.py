@@ -12,9 +12,9 @@ nazwa=input("Podaj nazwę pliku bez rozszerzenia .txt \n")
 
 print(nazwa+'.txt')
 
-dane=w.wczytaj(nazwa+'ala.txt')
+dane=w.wczytaj(nazwa+'.txt')
 
-f=dane[:,0]
+f=dane[:,1]
 uwe=dane[:,1]
 uwy=dane[:,2]
 r=uwy/uwe
