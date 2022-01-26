@@ -12,7 +12,7 @@ nazwa=input("Podaj nazwę pliku bez rozszerzenia .txt \n")
 
 print(nazwa)
 
-dane=w.wczytaj(nazwa+'.txt')
+dane=w.wczytaj(nazwa+'ala.txt')
 
 f=dane[:,0]
 uwe=dane[:,1]
