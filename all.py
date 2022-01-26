@@ -14,7 +14,7 @@ print(nazwa+'.txt')
 
 dane=w.wczytaj(nazwa+'.txt')
 
-f=dane[:,1]
+f=dane[:,0]
 uwe=dane[:,1]
 uwy=dane[:,2]
 r=uwy/uwe
